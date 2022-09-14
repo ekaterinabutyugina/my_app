@@ -76,4 +76,4 @@ The app will not run without them. (Github currently has a file size limit of 2 
 
 - Brush up the Github repo to make it more attractive and understandable: Adapt the README file to explain your work, add a screenshot of your app, etc.
 
-- Get acquainted with the vibrant online data visualization community by tweeting about your app. Include a screenshot of your app and a link to your Github repo. Feel free to tag [@_SITAcademy](https://twitter.com/_SITAcademy) and [@streamlit](https://twitter.com/streamlit?lang=en).
+- Get acquainted with the vibrant online data visualization community by posting about your app. Include a screenshot of your app and a link to your Github repo. Feel free to tag  [@herHACK](https://www.linkedin.com/company/digitalswitzerland/), [@SITAcademy](https://www.linkedin.com/school/sit-academy/) and [@streamlit](https://twitter.com/streamlit?lang=en).
