@@ -17,9 +17,9 @@ df = pd.read_csv("data/mpg.csv")
 
 # Basic set-up of the page:
 # First the checkbox to show the data frame
-# if st.sidebar.checkbox('Show dataframe'):
-#     st.header("dataframe")
-#     st.dataframe(df.head())
+if st.sidebar.checkbox('Show dataframe'):
+    st.header("dataframe")
+    st.dataframe(df.head())
 
 # Then the radio botton for the plot type
 show_plot = st.sidebar.radio(
