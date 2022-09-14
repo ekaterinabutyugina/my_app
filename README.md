@@ -1,14 +1,13 @@
-========================
-Mini Project - Build and Deploy Your App
+Mini Project - Build and Deploy Your Streamlit App
 ========================
 
-You'll be working with the `MPG dataset<https://ggplot2.tidyverse.org/reference/mpg.html>` that contains the subset of the fuel economy data. 
+You'll be working with the [MPG dataset](https://ggplot2.tidyverse.org/reference/mpg.html) that contains the subset of the fuel economy data. 
 
 Let's create a Streamlit app which runs locally on your computer and explore how you can get it into the cloud.
-If you don't have your own app ready, you can download this :download:`template streamlit app <https://github.com/ekaterinabutyugina/my_app/blob/master/app.py>` and the dataset `mpg.csv <https://drive.google.com/file/d/1w_udatZPqdyrIdtM1FBZgbMt0VouiqPz/view?usp=sharing>` and try out the deployment with these files.
+If you don't have your own app ready, you can download this :download:[template streamlit app](https://github.com/ekaterinabutyugina/my_app/blob/master/app.py) and the dataset `mpg.csv <https://drive.google.com/file/d/1w_udatZPqdyrIdtM1FBZgbMt0VouiqPz/view?usp=sharing>` and try out the deployment with these files.
 
 Streamlit Cloud will fetch all the files required for the app deployment from Github, so first of all, we need to ensure that everything is available in a public repo.
-The instructions below are adapted from the official `Streamlit documentation <https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app>`.
+The instructions below are adapted from the official [Streamlit documentation](https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app).
 
 1) Set up your Github repo
 -----------------------------
@@ -64,7 +63,7 @@ The app will not run without them. (Github currently has a file size limit of 2 
 3) Deploy the app to the Streamlit Cloud
 -----------------------------
 
-- Log in to Streamlit with your Github account `here <https://share.streamlit.io/>`.
+- Log in to Streamlit with your Github account [here](https://share.streamlit.io/).
 
 - Click on the button ``New app`` and enter the repository name, branch and main file path (to your app.py file).
 
@@ -78,4 +77,4 @@ The app will not run without them. (Github currently has a file size limit of 2 
 
 - Brush up the Github repo to make it more attractive and understandable: Adapt the README file to explain your work, add a screenshot of your app, etc.
 
-- Get acquainted with the vibrant online data visualization community by tweeting about your app. Include a screenshot of your app and a link to your Github repo. Feel free to tag `@_SITAcademy <https://twitter.com/_SITAcademy>`__ and `@streamlit <https://twitter.com/streamlit?lang=en>`__.
+- Get acquainted with the vibrant online data visualization community by tweeting about your app. Include a screenshot of your app and a link to your Github repo. Feel free to tag [@_SITAcademy](https://twitter.com/_SITAcademy) and [@streamlit](https://twitter.com/streamlit?lang=en).
