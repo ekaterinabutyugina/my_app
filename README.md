@@ -4,13 +4,13 @@ Mini Project - Build and Deploy Your Streamlit App
 You'll be working with the [MPG dataset](https://ggplot2.tidyverse.org/reference/mpg.html) that contains the subset of the fuel economy data. 
 
 Let's create a Streamlit app which runs locally on your computer and explore how you can get it into the cloud.
-If you don't have your own app ready, you can download this :download:[template streamlit app](https://github.com/ekaterinabutyugina/my_app/blob/master/app.py) and the dataset [mpg.csv](https://drive.google.com/file/d/1w_udatZPqdyrIdtM1FBZgbMt0VouiqPz/view?usp=sharing) and try out the deployment with these files.
+If you don't have your own app ready, you can download this [template streamlit app](https://github.com/ekaterinabutyugina/my_app/blob/master/app.py) and the dataset [mpg.csv](https://drive.google.com/file/d/1w_udatZPqdyrIdtM1FBZgbMt0VouiqPz/view?usp=sharing) and try out the deployment with these files.
 
 Streamlit Cloud will fetch all the files required for the app deployment from Github, so first of all, we need to ensure that everything is available in a public repo.
 The instructions below are adapted from the official [Streamlit documentation](https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app).
 
-1) Set up your Github repo
------------------------------
+## 1) Set up your Github repo ##
+
 
 **Note**: This first part is only relevant, if you haven't created a Github repo for this mini project yet.
 
@@ -31,8 +31,7 @@ The instructions below are adapted from the official [Streamlit documentation](h
     git push
 ```
 
-2) Create and test the requirements file
------------------------------
+## 2) Create and test the requirements file ##
 
 - Use a text editor to create a file named `requirements.txt`, which will contain information on all the packages required to run your project. For example, if you're using the template streamlit app, write the lines below in it and save it in your git folder.
 
@@ -60,8 +59,8 @@ The instructions below are adapted from the official [Streamlit documentation](h
 The app will not run without them. (Github currently has a file size limit of 2 GB for free accounts.)
 
 
-3) Deploy the app to the Streamlit Cloud
------------------------------
+## 3) Deploy the app to the Streamlit Cloud ##
+
 
 - Log in to Streamlit with your Github account [here](https://share.streamlit.io/).
 
@@ -72,8 +71,8 @@ The app will not run without them. (Github currently has a file size limit of 2 
 - Click ``Deploy!`` and watch your app launch. It is now hosted in the cloud so you can share the assigned streamlit link with others.
 
 
-4) Optional: Showcase your app
------------------------------
+## 4) Optional: Showcase your app ##
+
 
 - Brush up the Github repo to make it more attractive and understandable: Adapt the README file to explain your work, add a screenshot of your app, etc.
 
