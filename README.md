@@ -4,7 +4,7 @@ Mini Project - Build and Deploy Your Streamlit App
 You'll be working with the [MPG dataset](https://ggplot2.tidyverse.org/reference/mpg.html) that contains the subset of the fuel economy data. 
 
 Let's create a Streamlit app which runs locally on your computer and explore how you can get it into the cloud.
-If you don't have your own app ready, you can download this :download:[template streamlit app](https://github.com/ekaterinabutyugina/my_app/blob/master/app.py) and the dataset `mpg.csv <https://drive.google.com/file/d/1w_udatZPqdyrIdtM1FBZgbMt0VouiqPz/view?usp=sharing>` and try out the deployment with these files.
+If you don't have your own app ready, you can download this :download:[template streamlit app](https://github.com/ekaterinabutyugina/my_app/blob/master/app.py) and the dataset [mpg.csv](https://drive.google.com/file/d/1w_udatZPqdyrIdtM1FBZgbMt0VouiqPz/view?usp=sharing) and try out the deployment with these files.
 
 Streamlit Cloud will fetch all the files required for the app deployment from Github, so first of all, we need to ensure that everything is available in a public repo.
 The instructions below are adapted from the official [Streamlit documentation](https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app).
